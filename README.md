@@ -1,11 +1,11 @@
 # TeachMeSkills_Homework_Lesson_6_Task_4
 /**
- * ЗАДАНИЕ 4
- * 	Написать метод для проверки является ли число палиндромом.
- *
- * 	Что практикуем в этом задании:
- * 		- построение алгоритмов
- * 		- управляющие конструкции, операции ветвления
- *
- * 	Палиндро́м — число,  одинаково читающееся в обоих направлениях. Например, число 101;	 [Wiki]
- */
+* TASK 4
+* Write a method to check if a number is a palindrome.
+*
+* What we practice in this task:
+* - constructing algorithms
+* - control structures, branching operations
+*
+* A palindrome is a number that reads the same in both directions. For example, the number 101;
+*/
